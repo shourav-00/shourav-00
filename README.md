@@ -26,6 +26,18 @@
 
 ---
 
+## 📊 My Language Statistics (Manual Overview)
+
+### **Most Used / Preferred Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-15%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 | Project | Description | Tech Stack |
@@ -60,8 +72,10 @@
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/YourHandle">
-    <img src="https://cfstats.vercel.app/api?handle=YourHandle" alt="Codeforces Stats" />
+    <img src="https://cf.leed.at/?handle=YourHandle" alt="Codeforces Stats"/>
   </a>
+
+  <br/><br/>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YourHandle/">
