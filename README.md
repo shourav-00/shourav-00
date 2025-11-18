@@ -71,14 +71,14 @@
 <p align="center">
 
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/YourHandle">
+  <a href="https://codeforces.com/profile/shourav04">
     <img src="https://cf.leed.at/?handle=YourHandle" alt="Codeforces Stats"/>
   </a>
 
   <br/><br/>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/YourHandle/">
+  <a href="https://leetcode.com/u/shourav00/">
     <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
