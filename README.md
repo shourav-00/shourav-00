@@ -12,9 +12,9 @@
 | | |
 |---|---|
 | 🎓 Education | 2nd-year CSE student at Daffodil International University |
-| 💻 Passion | Web Development, DSA, Full-Stack Projects |
-| 🔭 Currently Working | Habit Tracker (Full-Stack App) & DSA Practice |
-| 🌱 Learning | Advanced DSA, React, Node.js, Express.js, MongoDB |
+| 💻 Passion | Web Development, DSA, |
+| 🔭 Currently Working | Habit Tracker (Website) & Full Stack Web Develop |
+| 🌱 Learning | Advanced DSA, React, Node.js, Express.js, MongoDB,Become a Problem Solver(Main Goal) and shift my path into ML after completed Web Development.|
 | 💡 Fun Fact | I became a math lover after repeated failures. Persistence is key! |
 
 ---
@@ -38,7 +38,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| Habit Tracker | Full-stack habit tracker with authentication & habit management | React, Node.js, Express.js, MongoDB, Tailwind |
+| Habit Tracker | Focused on Frontend but using here basic concept MongoDb ,express js to load data from DB through the Api call , tracker with authentication & habit management | React, Node.js, Express.js, MongoDB, Tailwind |
 | DSA Practice | Solving problems in C/C++ and practicing STL | C, C++ |
 
 ---
@@ -53,12 +53,20 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shourav-chowdhury-3729072a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+  <a href="shouravchowdhury400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <p align="center">
+  <a href="https://www.facebook.com/share/1aQfNw9Kbu/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shourav_0_0?utm_source=qr&igsh=enUxd3plNzJ1bmU2">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 </p>
 
 ---
 
-<p align="center"><i>“Code, Learn, Build, Repeat” 💻</i></p>
+<p align="center"><i>“Code, Learn, Build,Fail,Code, Learn, Repeat” 💻</i></p>
