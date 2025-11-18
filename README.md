@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff8c00">Shourav Chowdhury</span></h1>
@@ -12,9 +12,9 @@
 | | |
 |---|---|
 | 🎓 Education | 2nd-year CSE student at Daffodil International University |
-| 💻 Passion | Web Development, DSA, |
-| 🔭 Currently Working | Habit Tracker (Website) & Full Stack Web Develop |
-| 🌱 Learning | Advanced DSA, React, Node.js, Express.js, MongoDB,Become a Problem Solver(Main Goal) and shift my path into ML after completed Web Development.|
+| 💻 Passion | Web Development, DSA |
+| 🔭 Currently Working | Habit Tracker (Website) & Full Stack Web Development |
+| 🌱 Learning | Advanced DSA, React, Node.js, Express.js, MongoDB, ML (future plan) |
 | 💡 Fun Fact | I became a math lover after repeated failures. Persistence is key! |
 
 ---
@@ -38,7 +38,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| Habit Tracker | Focused on Frontend but using here basic concept MongoDb ,express js to load data from DB through the Api call , tracker with authentication & habit management | React, Node.js, Express.js, MongoDB, Tailwind |
+| Habit Tracker | Full-stack habit tracker using React, Node.js, Express.js & MongoDB, with authentication & API calls | React, Node.js, Express.js, MongoDB, Tailwind |
 | DSA Practice | Solving problems in C/C++ and practicing STL | C, C++ |
 
 ---
@@ -51,22 +51,31 @@
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Codeforces Stats
 <p align="center">
-  <a href="www.linkedin.com/in/shourav-chowdhury-3729072a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
-  <a href="shouravchowdhury400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <p align="center">
-  <a href="https://www.facebook.com/share/1aQfNw9Kbu/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://codeforces.com/profile/YourHandle">
+    <img src="https://cfstats.vercel.app/api?handle=YourHandle" alt="Codeforces Stats"/>
   </a>
-  <a href="https://www.instagram.com/shourav_0_0?utm_source=qr&igsh=enUxd3plNzJ1bmU2">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 </p>
 
 ---
 
-<p align="center"><i>“Code, Learn, Build,Fail,Code, Learn, Repeat” 💻</i></p>
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shourav-chowdhury-3729072a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shouravchowdhury400@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/shourav.chowdhury.0">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shourav_0_0/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Code, Learn, Build, Fail, Repeat” 💻</i></p>
