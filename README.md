@@ -52,7 +52,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | **Habit Tracker** | Frontend focused. Basic MongoDB + Express API for loading and storing. Authentication + Habit Management | React, Node.js, Express.js, MongoDB, Tailwind |
-| **DSA Practice** | Solving problems using JavaScript to improve logic & problem-solving | JavaScript |
+| **DSA Practice** | Solving problems using JavaScript to improve logic & problem-solving | C++ |
 
 ---
 
