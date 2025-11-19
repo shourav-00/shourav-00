@@ -26,82 +26,25 @@
 
 ---
 
-## 📊 My Language Statistics (Manual Overview)
-
-### **Most Used / Preferred Languages**
+## 🚀 Pinned Projects
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-15%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://github.com/shourav04/HabitTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=HabitTracker&theme=radical" alt="Habit Tracker" width="250" />
+  </a>
+  <a href="https://github.com/shourav04/TravelBookingSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=TravelBookingSystem&theme=radical" alt="Travel Booking System" width="250" />
+  </a>
+  <a href="https://github.com/shourav04/DSA-Practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=DSA-Practice&theme=radical" alt="DSA Practice" width="250" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Habit Tracker** | Frontend focused. Basic MongoDB + Express API just for loading and storing. Authentication + Habit Management | React, Node.js, Express.js, MongoDB, Tailwind |
-| **DSA Practice** | Solving problems using JavaScript to improve logic & problem-solving | JavaScript |
-
----
-
-# ⭐ Pinned Projects (Bullet Style)
-
-- **📝 Habit Tracker (MERN)**  
-  - Role: Frontend + Basic Backend  
-  - Features: Authentication, Habit creation, MongoDB  
-  - **Repo:** https://github.com/shourav04/HabitTracker  
-
-- **💳 Travel Booking System (Java)**  
-  - Role: Full Project (Console App)  
-  - Features: Login/Signup, Booking, Admin Panel  
-  - **Repo:** https://github.com/shourav04/TravelBookingSystem  
-
-- **📚 DSA Problem Solving**  
-  - Role: Problem Solving  
-  - Features: Arrays, Strings, Recursion, Patterns  
-  - **Repo:** https://github.com/shourav04/DSA-Practice  
-
----
-
-## 📈 My Learning & Career Plan
-
-| Phase | Duration | Focus Area | Goal |
-|-------|----------|------------|------|
-| **Phase 1: Web Development** | 3-4 months | HTML, CSS, Tailwind, React, Router, Vite | Build strong frontend foundation |
-| **Phase 2: DSA Practice** | 3-4 months | JavaScript DSA, Problem Solving | Become confident in algorithms |
-| **Phase 3: MERN Full-Stack** | 4-5 months | MongoDB, Express, React, Node | Build full-stack apps |
-| **Phase 4: Machine Learning** | 6+ months | Python, Statistics, ML Algorithms | Move into AI/ML |
-| **Phase 5: Professional Growth** | 2 years | Web + DSA + ML | Become a solid software engineer |
-
----
-
-## 📊 GitHub Stats (Fully Working)
-
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical&langs_count=6" width="45%"/>
-</p>
-
----
-
-## 🏆 Competitive Programming
-<p align="center">
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/shourav04">
-    <img src="https://cf.leed.at/?handle=shourav04" alt="Codeforces Stats"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/shourav00/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-
 </p>
 
 ---
@@ -121,7 +64,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center"><i>“Code, Learn, Build, Fail, Repeat.” 💻</i></p>
