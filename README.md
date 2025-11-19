@@ -49,9 +49,9 @@
 
 | Project | Description | GitHub Link |
 |---------|-------------|-------------|
-| **Habit Tracker (MERN)** | Frontend + Basic Backend with Authentication and Habit Management | [Repo](https://github.com/shourav04/HabitTracker) |
-| **Travel Booking System (Java)** | Full Project: Console App with Login/Signup, Booking, Admin Panel | [Repo](https://github.com/shourav04/TravelBookingSystem) |
-| **DSA Problem Solving** | Problem solving practice: Arrays, Strings, Recursion, Patterns | [Repo](https://github.com/shourav04/DSA-Practice) |
+| **Habit Tracker (MERN)** | Frontend + Basic Backend with Authentication and Habit Management | Show(https://github.com/shourav04/HabitTracker) |
+| **Emerngency Hotline Service** | Full Project: React Router,Js,.... | Show(https://github.com/shourav-00/Emergency-Hotline-Service.git) |
+| **** | ** Pet Care ** | Show(https://github.com/shourav-00/WarmPaws-Pet-Care-in-Winter.git) |
 
 ---
 
