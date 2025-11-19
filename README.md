@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff8c00">Shourav Chowdhury</span></h1>
@@ -22,20 +22,20 @@
 ## 🛠 Skills & Technologies
 | Programming Languages | Frontend | Backend & Tools |
 |---|---|---|
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| JavaScript, C, C++ | HTML, CSS, Tailwind, React, React Router, Vite | Node.js, Express.js, MongoDB |
 
 ---
 
 ## 🚀 Pinned Projects
 <p align="center">
   <a href="https://github.com/shourav04/HabitTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=HabitTracker&theme=radical" alt="Habit Tracker" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=HabitTracker&theme=radical" alt="Habit Tracker">
   </a>
   <a href="https://github.com/shourav04/TravelBookingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=TravelBookingSystem&theme=radical" alt="Travel Booking System" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=TravelBookingSystem&theme=radical" alt="Travel Booking System">
   </a>
   <a href="https://github.com/shourav04/DSA-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=DSA-Practice&theme=radical" alt="DSA Practice" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=DSA-Practice&theme=radical" alt="DSA Practice">
   </a>
 </p>
 
@@ -43,8 +43,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical&langs_count=6" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical">
 </p>
 
 ---
