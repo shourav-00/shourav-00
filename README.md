@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff8c00">Shourav Chowdhury</span></h1>
@@ -26,26 +26,44 @@
 
 ---
 
-## 🚀 Pinned Projects
-<p align="center">
-  <a href="https://github.com/shourav04/HabitTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=HabitTracker&theme=radical" alt="Habit Tracker">
-  </a>
-  <a href="https://github.com/shourav04/TravelBookingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=TravelBookingSystem&theme=radical" alt="Travel Booking System">
-  </a>
-  <a href="https://github.com/shourav04/DSA-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shourav04&repo=DSA-Practice&theme=radical" alt="DSA Practice">
-  </a>
-</p>
+## 📊 My Language Statistics (Manual Overview)
+
+### **Most Used / Preferred Languages**
+- JavaScript: 70%  
+- React: 15%  
+- HTML: 10%  
+- CSS: 5%  
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical">
-</p>
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Habit Tracker** | Frontend focused. Basic MongoDB + Express API for loading and storing. Authentication + Habit Management | React, Node.js, Express.js, MongoDB, Tailwind |
+| **DSA Practice** | Solving problems using JavaScript to improve logic & problem-solving | JavaScript |
+
+---
+
+## 🚀 Pinned Projects
+
+| Project | Description | GitHub Link |
+|---------|-------------|-------------|
+| **Habit Tracker (MERN)** | Frontend + Basic Backend with Authentication and Habit Management | [Repo](https://github.com/shourav04/HabitTracker) |
+| **Travel Booking System (Java)** | Full Project: Console App with Login/Signup, Booking, Admin Panel | [Repo](https://github.com/shourav04/TravelBookingSystem) |
+| **DSA Problem Solving** | Problem solving practice: Arrays, Strings, Recursion, Patterns | [Repo](https://github.com/shourav04/DSA-Practice) |
+
+---
+
+## 📈 My Learning & Career Plan
+
+| Phase | Duration | Focus Area | Goal |
+|-------|----------|------------|------|
+| **Phase 1: Web Development** | 3-4 months | HTML, CSS, Tailwind, React, Router, Vite | Build strong frontend foundation |
+| **Phase 2: DSA Practice** | 3-4 months | JavaScript DSA, Problem Solving | Become confident in algorithms |
+| **Phase 3: MERN Full-Stack** | 4-5 months | MongoDB, Express, React, Node | Build full-stack apps |
+| **Phase 4: Machine Learning** | 6+ months | Python, Statistics, ML Algorithms | Move into AI/ML |
+| **Phase 5: Professional Growth** | 2 years | Web + DSA + ML | Become a solid software engineer |
 
 ---
 
@@ -64,3 +82,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center"><i>“Code, Learn, Build, Fail, Repeat.” 💻</i></p>
