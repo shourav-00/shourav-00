@@ -49,9 +49,10 @@
 
 | Project | Description | GitHub Link |
 |---------|-------------|-------------|
-| **Habit Tracker (MERN)** | Frontend + Basic Backend with Authentication and Habit Management | Show(https://github.com/shourav-00/habit-tracker-client.git) |
-| **Emerngency Hotline Service** | Full Project: React Router,Js,.... | Show(https://github.com/shourav-00/Emergency-Hotline-Service.git) |
-| **** | ** Pet Care ** | Show(https://github.com/shourav-00/WarmPaws-Pet-Care-in-Winter.git) |
+| ![Habit](https://raw.githubusercontent.com/shourav-00/habit-tracker-client/main/public/logo192.png) **Habit Tracker (MERN)** | Frontend + Basic Backend with Authentication and Habit Management | [Repo](https://github.com/shourav-00/habit-tracker-client.git) |
+| ![Emergency](https://raw.githubusercontent.com/shourav-00/Emergency-Hotline-Service/main/public/logo192.png) **Emergency Hotline Service** | Full Project: React, Router, JS, etc. | [Repo](https://github.com/shourav-00/Emergency-Hotline-Service.git) |
+| ![Pet](https://raw.githubusercontent.com/shourav-00/WarmPaws-Pet-Care-in-Winter/main/public/logo192.png) **Pet Care** | Winter Pet Care Project | [Repo](https://github.com/shourav-00/WarmPaws-Pet-Care-in-Winter.git) |
+
 
 ---
 
