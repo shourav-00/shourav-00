@@ -47,6 +47,40 @@
 
 ---
 
+# ⭐ Pinned Projects
+
+### 🔹 **Bullet Style**
+
+- **📝 Habit Tracker (MERN)**  
+  - Role: Frontend + Basic Backend  
+  - Features: Authentication, Habit creation, Tracking, MongoDB basic use  
+  - **Repo:** https://github.com/shourav04/HabitTracker  
+
+- **💳 Travel Booking System (Java)**  
+  - Role: Full Project with File Handling  
+  - Features: Login/Signup, Booking, Admin Panel  
+  - **Repo:** https://github.com/shourav04/TravelBookingSystem  
+
+- **📚 DSA Problem Solving**  
+  - Role: Practice + Logic building  
+  - Features: Arrays, Strings, Patterns, Recursion  
+  - **Repo:** https://github.com/shourav04/DSA-Practice  
+
+
+---
+
+### 🔹 **Table Style**
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Habit Tracker (MERN)** | Frontend habit tracking with simple backend | React, Node.js, MongoDB, Express | https://github.com/shourav-00/habit-tracker-client.git |
+| **(WarmPaws-Pet-Care-in-WinterBooking System )** | Frontend Based Project | React,React Router,js,.... | https://github.com/shourav-00/WarmPaws-Pet-Care-in-Winter.git |
+| **Emergency Hotline Service`** | Frontend based Project | JavaScript,React,.... | https://github.com/shourav-00/Emergency-Hotline-Service.git |
+
+---
+
 ## 📈 My Learning & Career Plan
 
 | Phase | Duration | Focus Area | Goal |
@@ -61,8 +95,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical&langs_count=6" width="45%"/>
 </p>
 
 ---
@@ -72,7 +106,7 @@
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/shourav04">
-    <img src="https://cf.leed.at/?handle=YourHandle" alt="Codeforces Stats"/>
+    <img src="https://cf.leed.at/?handle=shourav04" alt="Codeforces Stats"/>
   </a>
 
   <br/><br/>
