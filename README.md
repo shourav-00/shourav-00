@@ -29,10 +29,21 @@
 ## 📊 My Language Statistics (Manual Overview)
 
 ### **Most Used / Preferred Languages**
-- JavaScript: 70%  
-- React: 15%  
-- HTML: 10%  
-- CSS: 5%  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-70%25-FFD600?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F0DB4F" />
+  <img src="https://img.shields.io/badge/React-15%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF5722" />
+  <img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D47A1" />
+</p>
+
+### **Visual Progress Bars**
+<p align="center">
+  JavaScript:  ██████████░░░░░░░░ 70%<br/>
+  React:       ███░░░░░░░░░░░░░ 15%<br/>
+  HTML:        ██░░░░░░░░░░░░░░ 10%<br/>
+  CSS:         ░░░░░░░░░░░░░░░░ 5%
+</p>
+
 
 ---
 
