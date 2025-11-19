@@ -22,7 +22,7 @@
 ## 🛠 Skills & Technologies
 | Programming Languages | Frontend | Backend & Tools |
 |---|---|---|
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
@@ -49,35 +49,34 @@
 
 # ⭐ Pinned Projects
 
-### 🔹 **Bullet Style**
+### 🔹 Bullet Style Summary
 
 - **📝 Habit Tracker (MERN)**  
   - Role: Frontend + Basic Backend  
-  - Features: Authentication, Habit creation, Tracking, MongoDB basic use  
+  - Features: Authentication, Habit creation, MongoDB basic use  
   - **Repo:** https://github.com/shourav04/HabitTracker  
 
 - **💳 Travel Booking System (Java)**  
-  - Role: Full Project with File Handling  
+  - Role: Full Project (Console App)  
   - Features: Login/Signup, Booking, Admin Panel  
   - **Repo:** https://github.com/shourav04/TravelBookingSystem  
 
 - **📚 DSA Problem Solving**  
-  - Role: Practice + Logic building  
-  - Features: Arrays, Strings, Patterns, Recursion  
+  - Role: Problem solving & Logic building  
+  - Features: Arrays, Strings, Recursion, Patterns  
   - **Repo:** https://github.com/shourav04/DSA-Practice  
-
 
 ---
 
-### 🔹 **Table Style**
+### 🔹 Table Format
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Habit Tracker (MERN)** | Frontend habit tracking with simple backend | React, Node.js, MongoDB, Express | https://github.com/shourav-00/habit-tracker-client.git |
-| **(WarmPaws-Pet-Care-in-WinterBooking System )** | Frontend Based Project | React,React Router,js,.... | https://github.com/shourav-00/WarmPaws-Pet-Care-in-Winter.git |
-| **Emergency Hotline Service`** | Frontend based Project | JavaScript,React,.... | https://github.com/shourav-00/Emergency-Hotline-Service.git |
+| **Habit Tracker (MERN)** | Frontend habit tracking with simple backend | React, Node.js, MongoDB, Express | https://github.com/shourav04/HabitTracker |
+| **Travel Booking System (Java)** | Console-based travel system with file handling | Java (OOP, File I/O) | https://github.com/shourav04/TravelBookingSystem |
+| **DSA Problem Solving** | Daily problem-solving using JavaScript | JavaScript | https://github.com/shourav04/DSA-Practice |
 
 ---
 
@@ -87,7 +86,7 @@
 |-------|----------|------------|------|
 | **Phase 1: Web Development** | 3-4 months | HTML, CSS, Tailwind, React, Router, Vite | Build strong frontend foundation |
 | **Phase 2: DSA Practice** | 3-4 months | JavaScript DSA, Problem Solving | Become confident in algorithms |
-| **Phase 3: MERN Full-Stack** | 4-5 months | MongoDB, Express, React, Node | Build complete full-stack apps |
+| **Phase 3: MERN Full-Stack** | 4-5 months | MongoDB, Express, React, Node | Build full-stack apps |
 | **Phase 4: Machine Learning** | 6+ months | Python, Statistics, ML Algorithms | Move into AI/ML field |
 | **Phase 5: Professional Growth** | 2 years | Web + DSA + ML | Become a solid software engineer |
 
