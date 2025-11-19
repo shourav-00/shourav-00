@@ -22,7 +22,7 @@
 ## 🛠 Skills & Technologies
 | Programming Languages | Frontend | Backend & Tools |
 |---|---|---|
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
@@ -42,41 +42,27 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Habit Tracker** | Focused on Frontend but using here basic concept MongoDb ,express js to load data from DB through the Api call , tracker with authentication & habit management | React, Node.js, Express.js, MongoDB, Tailwind |
-| **DSA Practice** | Solving problems using JavaScript to improve logic & problem solving | JavaScript |
+| **Habit Tracker** | Focused on Frontend but uses MongoDB + Express to load data through API | React, Node, Express, MongoDB, Tailwind |
+| **DSA Practice** | Solving problems using JavaScript | JavaScript |
 
 ---
 
-# ⭐ Pinned Projects
-
-### 🔹 Bullet Style Summary
+# ⭐ Pinned Projects (Bullet Style Only)
 
 - **📝 Habit Tracker (MERN)**  
-  - Role: Frontend + Basic Backend  
-  - Features: Authentication, Habit creation, MongoDB basic use  
-  - **Repo:** https://github.com/shourav04/HabitTracker  
+  Role: Frontend + Basic Backend  
+  Features: Authentication, Habit creation, MongoDB basic use  
+  **Repo:** https://github.com/shourav04/HabitTracker  
 
 - **💳 Travel Booking System (Java)**  
-  - Role: Full Project (Console App)  
-  - Features: Login/Signup, Booking, Admin Panel  
-  - **Repo:** https://github.com/shourav04/TravelBookingSystem  
+  Role: Full Project (Console App)  
+  Features: Login/Signup, Booking, Admin Panel  
+  **Repo:** https://github.com/shourav04/TravelBookingSystem  
 
 - **📚 DSA Problem Solving**  
-  - Role: Problem solving & Logic building  
-  - Features: Arrays, Strings, Recursion, Patterns  
-  - **Repo:** https://github.com/shourav04/DSA-Practice  
-
----
-
-### 🔹 Table Format
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Habit Tracker (MERN)** | Frontend habit tracking with simple backend | React, Node.js, MongoDB, Express | https://github.com/shourav04/HabitTracker |
-| **Travel Booking System (Java)** | Console-based travel system with file handling | Java (OOP, File I/O) | https://github.com/shourav04/TravelBookingSystem |
-| **DSA Problem Solving** | Daily problem-solving using JavaScript | JavaScript | https://github.com/shourav04/DSA-Practice |
+  Role: Improve logic  
+  Features: Arrays, Strings, Recursion, Patterns  
+  **Repo:** https://github.com/shourav04/DSA-Practice  
 
 ---
 
@@ -84,23 +70,25 @@
 
 | Phase | Duration | Focus Area | Goal |
 |-------|----------|------------|------|
-| **Phase 1: Web Development** | 3-4 months | HTML, CSS, Tailwind, React, Router, Vite | Build strong frontend foundation |
-| **Phase 2: DSA Practice** | 3-4 months | JavaScript DSA, Problem Solving | Become confident in algorithms |
-| **Phase 3: MERN Full-Stack** | 4-5 months | MongoDB, Express, React, Node | Build full-stack apps |
-| **Phase 4: Machine Learning** | 6+ months | Python, Statistics, ML Algorithms | Move into AI/ML field |
-| **Phase 5: Professional Growth** | 2 years | Web + DSA + ML | Become a solid software engineer |
+| **Phase 1: Web Development** | 3-4 months | HTML, CSS, Tailwind, React | Build strong frontend |
+| **Phase 2: DSA** | 3-4 months | JavaScript DSA | Problem solving level-up |
+| **Phase 3: MERN** | 4-5 months | MongoDB, Express, React, Node | Full-stack dev |
+| **Phase 4: Machine Learning** | 6+ months | Python, Statistics | Move into AI/ML |
+| **Phase 5: Professional Growth** | 2 years | Web + DSA + ML | Software Engineer |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical&langs_count=6" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shourav04&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourav04&layout=compact&theme=radical&langs_count=8" width="45%" />
 </p>
 
 ---
 
 ## 🏆 Competitive Programming
+
 <p align="center">
 
   <!-- Codeforces -->
